@@ -65,7 +65,7 @@ A modern dating application built using Flutter and Firebase, featuring dynamic 
 
 | Home Page | Upload Page | Match Page |
 |-----------|-------------|------------|
-| ![Home](screenshots/home.png) | ![Upload](screenshots/upload.png) | ![Match](screenshots/match.png) |
+| ![Home](screenshots/home.jpeg) | ![Filter](screenshots/filter_user.jpeg) | ![Match](screenshots/match.jpeg) |![Edit Profile](screenshots/edit_profile.jpeg) |
 
 ---
 
