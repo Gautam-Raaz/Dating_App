@@ -85,4 +85,3 @@ Vistic Solution License © 2025 Gautam Raj
 
 - Flutter
 - Firebase
-- LottieFiles
