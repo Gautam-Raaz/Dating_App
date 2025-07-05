@@ -63,9 +63,9 @@ A modern dating application built using Flutter and Firebase, featuring dynamic 
 
 ## 📷 Screenshots
 
-| Home Page | Upload Page | Match Page |
+| Home Page | Filter User | Match Page |
 |-----------|-------------|------------|
-| ![Home](screenshots/home.jpeg) | ![Filter](screenshots/filter_user.jpeg) | ![Match](screenshots/match.jpeg) |![Edit Profile](screenshots/edit_profile.jpeg) |
+| ![Home](screenshots/home.jpeg) | ![Filter](screenshots/filter_user.jpeg) | ![Match](screenshots/match.jpeg)
 
 ---
 
