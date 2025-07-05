@@ -77,7 +77,7 @@ Pull requests are welcome. For major changes, open an issue to discuss your idea
 
 ## 📄 License
 
-MIT License © 2025 Your Name
+Vistic Solution License © 2025 Gautam Raj
 
 ---
 
