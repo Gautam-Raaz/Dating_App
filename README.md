@@ -61,6 +61,12 @@ A modern dating application built using Flutter and Firebase, featuring dynamic 
 
 ---
 
+## 📦 Download APK
+
+You can download the latest release APK from the link below:
+
+🔗 **[Download Dating App APK](https://github.com/Gautam-Raaz/Dating_App/releases/download/v1.0.0/app-release.apk)**
+
 ## 📷 Screenshots
 
 | Home Page | Filter User | Match Page |
